@@ -1,2 +1,2 @@
-# gandalfGit
+# 初始化
 firsttime
